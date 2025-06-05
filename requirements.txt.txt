@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+matplotlib
+pandas
+scikit-learn
+jupyter
+tensorboard
+kafka-python
